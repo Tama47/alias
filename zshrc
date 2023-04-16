@@ -1,4 +1,5 @@
 alias python='python3'
-alias extract='/Volumes/home/Script/extract-subtitle.sh'
-alias replace='/Volumes/home/Script/replace-subtitle.sh'
-alias hidive='python3 /Volumes/home/Script/extract-hidive.py'
+alias hide='/Volumes/home/Script/hide.sh'
+alias extract='/Volumes/home/Script/extract.sh'
+alias replace='/Volumes/home/Script/replace.sh'
+alias hidive='python3 /Volumes/home/Script/hidive.py'
