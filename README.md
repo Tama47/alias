@@ -1,0 +1,6 @@
+```
+source ~/.bashrc
+```
+```
+source ~/.zshrc
+```
